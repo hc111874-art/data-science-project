@@ -1,0 +1,12 @@
+{
+  "geojson_entries": 52,
+  "states_ranked": 50,
+  "largest_state": "Alaska",
+  "largest_area_sq_miles": 570640.95,
+  "second_largest_state": "Texas",
+  "second_area_sq_miles": 261231.711,
+  "alaska_to_texas_ratio": 2.1844245012046026,
+  "smallest_state": "Rhode Island",
+  "smallest_area_sq_miles": 1033.814,
+  "dataset_sha256": "7a8c022e063a34a83f35984cde6c81992ece5983f8cc4459ed02e40687739573"
+}
